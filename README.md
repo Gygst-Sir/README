@@ -22,9 +22,7 @@ Here are some ideas to get you started:
            
 ###    Watch my contribution graph get eaten by the snake 🐍
 
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![theakshayraj snake gif](https://github.com/theakshayraj/theakshayraj/blob/b21604aba904e2dea5d8e6f7de8d145f19e331b6/github-contribution-grid-snake.svg)      
-     
+
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
@@ -46,6 +44,7 @@ Here are some ideas to get you started:
 
 ## My Contribution Graph is Getting Ate by a Snake🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+![theakshayraj snake gif](https://github.com/theakshayraj/theakshayraj/blob/b21604aba904e2dea5d8e6f7de8d145f19e331b6/github-contribution-grid-snake.svg)
 
 
 
