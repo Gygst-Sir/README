@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ➙ **Containerization tool:**    Docker <br>
 ➙ **Orchestration tool:**       Kubernetes <br>
 ➙ **Code Quality:**             SonarQube <br>
-➙ **Other Core Skills:**        Linux, Agile, Python<br>
+➙ **Other Core Skills:**        JavaScript, Ruby, Python<br>
 - ⚡   One Life, Code it. <div align='justify'>
 ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
            
