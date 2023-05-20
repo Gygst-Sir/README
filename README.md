@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-#Watch My Contribution Graph Get Eaten by a Snake🐍:
+## Watch My Contribution Graph Get Eaten by a Snake🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
 
