@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## my contribution graph get eaten by the snake 🐍:
+## My Contribution Graph is Getting Ate by a Snake🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
 
