@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## My Contribution Graph is Getting Ate by a Snake🐍:
+#Watch My Contribution Graph Get Eaten by a Snake🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
-![theakshayraj snake gif](https://github.com/theakshayraj/theakshayraj/blob/b21604aba904e2dea5d8e6f7de8d145f19e331b6/github-contribution-grid-snake.svg)
+
 
 
 
