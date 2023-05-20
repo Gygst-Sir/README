@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡   One Life, Code it. <div align='justify'>
 ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
            
-###    Watch my contribution graph get eaten by the snake 🐍
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
