@@ -19,19 +19,6 @@
 <br>
 <br> 
 
-## Github skyline
-<p align="center">     
-  get yours from here: https://skyline.github.com
-
-<img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">    
-
- <br>
-<br> 
-  
-
-
-
-<img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'> | <img align='center' src='https://avatars2.githubusercontent.com/u/44778453?s=400&u=a39c08020d55a9916613e294aec148d1467add49&v=4' width='100'> | <img align='center' src='https://avatars0.githubusercontent.com/u/56135357?s=400&u=3ebf5dc8993303d0f9a3f61516ef93daf1ff70dd&v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/70484570?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/70598100?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/4624113?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/74645302?v=4' width='100'> 
 
 <br>
 <br>
