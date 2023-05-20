@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 💻 Believe in Technologies and Grow with it.
 - 🌱 Currently training on HTML & SCSS specialization.
 - 📫 reach me :
-[![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:theakshayraj@outlook.com)](mailto:theakshayraj@outlook.com) 
+[![Gmail Badge](https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:theakshayraj@outlook.com)](mailto:lwaikiki2010@gmail.com) 
 
 ➙ **Cloud:** AWS, GCP <br>
 ➙ **Provisioning:**             Terraform <br>
