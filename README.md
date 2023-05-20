@@ -33,18 +33,7 @@ Here are some ideas to get you started:
   <a href="https://dev.to/theakshayraj">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akshay Raj's DEV Profile" height="30" width="30">
    </a>
-  <a href="https://twitter.com/_cisco_x" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akshay-raj-268149139/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/cisco._.x/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@akshayraj_58421" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
+ 
   <a href="https://www.facebook.com/theAxAy" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
@@ -52,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <!--
-**theakshayraj/theakshayraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gygst-Sir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 Looking for intern opportunities
 
   
