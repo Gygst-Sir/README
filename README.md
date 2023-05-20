@@ -27,12 +27,6 @@ Here are some ideas to get you started:
      
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theakshayraj&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
-  <a href="https://dev.to/theakshayraj">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Akshay Raj's DEV Profile" height="30" width="30">
-   </a>
- 
- 
-
   
 ༼ つ ◕_◕ ༽つ  Share this :)  
   
